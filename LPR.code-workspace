@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../LPR"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../Projeto Interdisciplinar"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DS1"
+	}
+}
